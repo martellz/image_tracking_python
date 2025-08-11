@@ -27,7 +27,7 @@ pip install opencv-python matplotlib tqdm
 
 ## sample data
 
-download from http://pwp.ink/geshi.zip
+download from http://165.99.42.150/geshi.zip
 
 ## Run
 
@@ -49,3 +49,4 @@ python test.py [--image image_file] [--video video_file] [--tracker_file tracker
 - [ ] detector: implement ferns detector
 - [ ] sdk: migrate to tfjs
 - [ ] sdk: migrate to wasm
+
